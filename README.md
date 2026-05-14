@@ -117,3 +117,13 @@ Steps included:
 - Cleaning manager hierarchy identifiers
 - Disabling source table loading for model optimization
 
+# Dashboard Preview
+
+### Executive Overview
+![Overview](screenshots/overview_dashboard.png)
+
+### Retention Analysis
+![Employee Analysis](screenshots/retention_dashboard.png)
+
+### Turnover Analysis
+![Attrition](screenshots/turnover_dashboard.png)
