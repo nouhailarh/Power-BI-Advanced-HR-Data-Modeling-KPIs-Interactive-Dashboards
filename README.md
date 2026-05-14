@@ -120,10 +120,10 @@ Steps included:
 # Dashboard Preview
 
 ### Executive Overview
-![Overview](screenshots/overview_dashboard.png)
+![Overview](screenshots/overview_dashboard.PNG)
 
 ### Retention Analysis
-![Employee Analysis](screenshots/retention_dashboard.png)
+![Retention](screenshots/retention_dashboard.PNG)
 
 ### Turnover Analysis
-![Attrition](screenshots/turnover_dashboard.png)
+![Turnover](screenshots/turnover_dashboard.PNG)
